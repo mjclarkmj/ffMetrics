@@ -1,360 +1,360 @@
-1.01	Team 3	Charles, Jamaal KCC RB
-1.02	Team 8	McCoy, LeSean PHI RB
-1.03	Team 10	Green, A.J. CIN WR
-1.04	Team 5	Johnson, Calvin DET WR
-1.05	Team 7	Lacy, Eddie GBP RB
-1.06	Team 9	Graham, Jimmy NOS TE
-1.07	Our Hero	Bryant, Dez DAL WR
-1.08	Team 2	Jones, Julio ATL WR
-1.09	Team 1	Bernard, Giovani CIN RB
-1.1	Team 6	Thomas, Demaryius DEN WR
-1.11	Team 11	Peterson, Adrian MIN RB
-1.12	Team 4	Marshall, Brandon CHI WR
-2.01	Team 4	Martin, Doug TBB RB
-2.02	Team 11	Jeffery, Alshon CHI WR
-2.03	Team 6	Forte, Matt CHI RB
-2.04	Team 1	Cobb, Randall GBP WR
-2.05	Team 2	Bell, Le'Veon PIT RB
-2.06	Team 8	Rodgers, Aaron GBP QB
-2.07	Team 9	Murray, DeMarco DAL RB
-2.08	Team 7	Brown, Antonio PIT WR
-2.09	Team 5	Ball, Montee DEN RB
-2.1	Team 10	Luck, Andrew IND QB
-2.11	Team 8	Allen, Keenan SDC WR
-2.12	Team 3	Nelson, Jordy GBP WR
-3.01	Team 3	Brees, Drew NOS QB
-3.02	Team 8	Morris, Alfred WAS RB
-3.03	Team 10	Stacy, Zac STL RB
-3.04	Team 8	Thomas, Julius DEN TE
-3.05	Team 7	Gronkowski, Rob NEP TE
-3.06	Team 9	Garcon, Pierre WAS WR
-3.07	Team 6	Patterson, Cordarrelle MIN WR
-3.08	Team 2	Watkins, Sammy BUF WR
-3.09	Team 1	Spiller, C.J. BUF RB
-3.1	Team 6	Floyd, Michael ARI WR
-3.11	Team 11	Cameron, Jordan CLE TE
-3.12	Team 4	Gordon, Josh CLE WR
-4.01	Team 4	Harvin, Percy SEA WR
-4.02	Team 11	Ellington, Andre ARI RB
-4.03	Team 6	Evans, Mike TBB WR
-4.04	Team 1	Cruz, Victor NYG WR
-4.05	Team 2	Lynch, Marshawn SEA RB
-4.06	Team 6	Hopkins, DeAndre HOU WR
-4.07	Team 9	Foster, Arian HOU RB
-4.08	Team 7	Hilton, T.Y. IND WR
-4.09	Our Hero	Crabtree, Michael SFO WR
-4.1	Team 10	Vereen, Shane NEP RB
-4.11	Our Hero	Sankey, Bishop TEN RB
-4.12	Cyril's Dead Hookers	Richardson, Trent IND RB
-5.01	Cyril's Dead Hookers	Cooks, Brandin NOS WR
-5.02	Password is Taco	Matthews, Jordan PHI WR
-5.03	The Fear Boners	Jackson, Vincent TBB WR
-5.04	John's Team	Manning, Peyton DEN QB
-5.05	Lucky Number 7	Stafford, Matthew DET QB
-5.06	The Double Ent-Andres	Wright, Kendall TEN WR
-5.07	The Smokin' Monkeys	Smith, Torrey BAL WR
-5.08	Curt's Team	Fitzgerald, Larry ARI WR
-5.09	Crazy Liquor and Cheeseburger Party	Newton, Cam CAR QB
-5.1	John's Team	Michael, Christine SEA RB
-5.11	The Rodya Orchestra	Mathews, Ryan SDC RB
-5.12	Erlich Bachman	Griffin III, Robert WAS QB
-6.01	Erlich Bachman	Reed, Jordan WAS TE
-6.02	The Rodya Orchestra	Wilson, Russell SEA QB
-6.03	John's Team	Gerhart, Toby JAC RB
-6.04	Crazy Liquor and Cheeseburger Party	Maclin, Jeremy PHI WR
-6.05	Curt's Team	Ryan, Matt ATL QB
-6.06	The Smokin' Monkeys	Foles, Nick PHI QB
-6.07	The Double Ent-Andres	Welker, Wes DEN WR
-6.08	Lucky Number 7	Rice, Ray BAL RB
-6.09	John's Team	White, Roddy ATL WR
-6.1	The Fear Boners	Beckham, Odell NYG WR
-6.11	Password is Taco	Bush, Reggie DET RB
-6.12	Cyril's Dead Hookers	Ridley, Stevan NEP RB
-7.01	Cyril's Dead Hookers	Jackson, DeSean WAS WR
-7.02	The Fear Boners	Ebron, Eric DET TE
-7.03	The Fear Boners	Hyde, Carlos SFO RB
-7.04	The Smokin' Monkeys	Decker, Eric NYJ WR
-7.05	Lucky Number 7	Tate, Ben CLE RB
-7.06	The Double Ent-Andres	Jennings, Rashad NYG RB
-7.07	The Smokin' Monkeys	Bell, Joique DET RB
-7.08	Curt's Team	Davis, Vernon SFO TE
-7.09	Crazy Liquor and Cheeseburger Party	Williams, Terrance DAL WR
-7.1	John's Team	Adams, Davante GBP WR
-7.11	The Rodya Orchestra	Johnson, Andre HOU WR
-7.12	Erlich Bachman	Hunter, Justin TEN WR
-8.01	Erlich Bachman	Freeman, Devonta ATL RB
-8.02	The Rodya Orchestra	Latimer, Cody DEN WR
-8.03	John's Team	Green, Ladarius SDC TE
-8.04	Crazy Liquor and Cheeseburger Party	Miller, Lamar MIA RB
-8.05	Curt's Team	Mason, Tre STL RB
-8.06	Gal	Edelman, Julian NEP WR
-8.07	The Double Ent-Andres	Benjamin, Kelvin CAR WR
-8.08	Lucky Number 7	Wallace, Mike MIA WR
-8.09	Gal	Pitta, Dennis BAL TE
-8.1	John's Team	West, Terrance CLE RB
-8.11	John's Team	Hill, Jeremy CIN RB
-8.12	Cyril's Dead Hookers	Stills, Kenny NOS WR
-9.01	Cyril's Dead Hookers	Austin, Tavon STL WR
-9.02	Password is Taco	Seahawks, Seattle SEA Def
-9.03	The Fear Boners	Randle, Rueben NYG WR
-9.04	Gal	Romo, Tony DAL QB
-9.05	Lucky Number 7	Kaepernick, Colin SFO QB
-9.06	The Double Ent-Andres	Brady, Tom NEP QB
-9.07	The Smokin' Monkeys	Dobson, Aaron NEP WR
-9.08	Curt's Team	Tate, Golden DET WR
-9.09	Crazy Liquor and Cheeseburger Party	Clay, Charles MIA TE
-9.1	John's Team	Gore, Frank SFO RB
-9.11	The Rodya Orchestra	Bowe, Dwayne KCC WR
-9.12	Erlich Bachman	Lattimore, Marcus SFO RB
-10.01	Erlich Bachman	Ertz, Zach PHI TE
-10.02	The Rodya Orchestra	Robinson, Allen JAC WR
-10.03	John's Team	Jackson, Steven ATL RB
-10.04	Crazy Liquor and Cheeseburger Party	Panthers, Carolina CAR Def
-10.05	Curt's Team	Johnson, Chris NYJ RB
-10.06	The Smokin' Monkeys	Blackmon, Justin JAC WR
-10.07	The Double Ent-Andres	Manziel, Johnny CLE QB
-10.08	Lucky Number 7	Lee, Marqise JAC WR
-10.09	The Smokin' Monkeys	Thomas, Pierre NOS RB
-10.1	The Fear Boners	49ers, San Francisco SFO Def
-10.11	Password is Taco	Colston, Marques NOS WR
-10.12	Cyril's Dead Hookers	Witten, Jason DAL TE
-11.01	Cyril's Dead Hookers	Sims, Charles TBB RB
-11.02	Password is Taco	Sanders, Emmanuel DEN WR
-11.03	The Fear Boners	Williams, Andre NYG RB
-11.04	The Smokin' Monkeys	Moreno, Knowshon MIA RB
-11.05	Lucky Number 7	Olsen, Greg CAR TE
-11.06	The Double Ent-Andres	Rudolph, Kyle MIN TE
-11.07	The Smokin' Monkeys	Eifert, Tyler CIN TE
-11.08	Curt's Team	Jones-Drew, Maurice OAK RB
-11.09	Crazy Liquor and Cheeseburger Party	Davis, Knile KCC RB
-11.1	John's Team	Pierce, Bernard BAL RB
-11.11	The Rodya Orchestra	Robinson, Khiry NOS RB
-11.12	Erlich Bachman	Crowell, Isaiah CLE RB
-12.01	Erlich Bachman	White, James NEP RB
-12.02	The Rodya Orchestra	Carey, Ka'Deem CHI RB
-12.03	John's Team	Moncrief, Donte IND WR
-12.04	Crazy Liquor and Cheeseburger Party	Thompkins, Kenbrell NEP WR
-12.05	Curt's Team	McFadden, Darren OAK RB
-12.06	The Smokin' Monkeys	Brown, Bryce BUF RB
-12.07	The Double Ent-Andres	Shorts, Cecil JAC WR
-12.08	Lucky Number 7	Woodhead, Danny SDC RB
-12.09	The Smokin' Monkeys	McKinnon, Jerick MIN RB
-12.1	The Fear Boners	Woods, Robert BUF WR
-12.11	Password is Taco	Bridgewater, Teddy MIN QB
-12.12	Cyril's Dead Hookers	Seferian-Jenkins, Austin TBB TE
-13.01	Cyril's Dead Hookers	Seastrunk, Lache WAS RB
-13.02	Password is Taco	Gostkowski, Stephen NEP PK
-13.03	The Fear Boners	Landry, Jarvis MIA WR
-13.04	The Smokin' Monkeys	Wilson, David NYG RB
-13.05	Lucky Number 7	Britt, Kenny STL WR
-13.06	The Double Ent-Andres	Bortles, Blake JAC QB
-13.07	The Smokin' Monkeys	Murray, Latavius OAK RB
-13.08	Curt's Team	Amaro, Jace NYJ TE
-13.09	The Fear Boners	Tannehill, Ryan MIA QB
-13.1	John's Team	Nicks, Hakeem IND WR
-13.11	The Rodya Orchestra	Allen, Dwayne IND TE
-13.12	Erlich Bachman	Rivers, Philip SDC QB
-14.01	Erlich Bachman	Wheaton, Markus PIT WR
-14.02	The Rodya Orchestra	Rams, St. Louis STL Def
-14.03	John's Team	Richardson, Paul SEA WR
-14.04	Crazy Liquor and Cheeseburger Party	Cutler, Jay CHI QB
-14.05	Curt's Team	Dalton, Andy CIN QB
-14.06	The Smokin' Monkeys	Cooper, Riley PHI WR
-14.07	The Double Ent-Andres	Hunter, Kendall SFO RB
-14.08	Lucky Number 7	Sproles, Darren PHI RB
-14.09	Gal	Wayne, Reggie IND WR
-14.1	The Fear Boners	Lyerla, Colt GBP TE
-14.11	Password is Taco	Boykin, Jarrett GBP WR
-14.12	Cyril's Dead Hookers	Amendola, Danny NEP WR
-15.01	Cyril's Dead Hookers	Bryant, Martavis PIT WR
-15.02	Gal	Anderson, C.J. DEN RB
-15.03	The Fear Boners	Jackson, Fred BUF RB
-15.04	Gal	Roethlisberger, Ben PIT QB
-15.05	Lucky Number 7	Broncos, Denver DEN Def
-15.06	The Double Ent-Andres	Hartline, Brian MIA WR
-15.07	The Smokin' Monkeys	Rogers, Da'Rick IND WR
-15.08	Curt's Team	Bengals, Cincinnati CIN Def
-15.09	Crazy Liquor and Cheeseburger Party	McCluster, Dexter TEN RB
-15.1	John's Team	Bennett, Martellus CHI TE
-15.11	The Rodya Orchestra	Jones, Marvin CIN WR
-15.12	Erlich Bachman	Cardinals, Arizona ARI Def
-16.01	Erlich Bachman	Ingram, Mark NOS RB
-16.02	The Rodya Orchestra	Wilson, Marquess CHI WR
-16.03	John's Team	Jennings, Greg MIN WR
-16.04	Crazy Liquor and Cheeseburger Party	Murray, Aaron KCC QB
-16.05	Curt's Team	Rodgers, Jacquizz ATL RB
-16.06	The Smokin' Monkeys	Helu, Roy WAS RB
-16.07	The Double Ent-Andres	Browns, Cleveland CLE Def
-16.08	Lucky Number 7	Tucker, Justin BAL PK
-16.09	Gal	Brown, Andre HOU RB
-16.1	The Fear Boners	Ivory, Chris NYJ RB
-16.11	Password is Taco	Hawkins, Andrew CLE WR
-16.12	Cyril's Dead Hookers	Prater, Matt DEN PK
-17.01	Cyril's Dead Hookers	Saints, New Orleans NOS Def
-17.02	Password is Taco	Walker, Delanie TEN TE
-17.03	The Fear Boners	Thomas, De'Anthony KCC RB
-17.04	Gal	Bradshaw, Ahmad IND RB
-17.05	Lucky Number 7	Johnson, Storm JAC RB
-17.06	The Double Ent-Andres	Williams, DeAngelo CAR RB
-17.07	The Smokin' Monkeys	Kelce, Travis KCC TE
-17.08	Curt's Team	Baldwin, Doug SEA WR
-17.09	Crazy Liquor and Cheeseburger Party	Jones, James OAK WR
-17.1	John's Team	Brown, Donald SDC RB
-17.11	The Rodya Orchestra	Manuel, E.J. BUF QB
-17.12	Erlich Bachman	Janis, Jeff GBP WR
-18.01	Erlich Bachman	Abbrederis, Jared GBP WR
-18.02	The Rodya Orchestra	Brown, John ARI WR
-18.03	John's Team	Chiefs, Kansas City KCC Def
-18.04	Crazy Liquor and Cheeseburger Party	Ballard, Vick IND RB
-18.05	Curt's Team	Huff, Josh PHI WR
-18.06	The Smokin' Monkeys	Taliaferro, Lorenzo BAL RB
-18.07	The Double Ent-Andres	Blue, Alfred HOU RB
-18.08	Lucky Number 7	Bradford, Sam STL QB
-18.09	Gal	Blount, LeGarrette PIT RB
-18.1	The Fear Boners	Moore, Denarius OAK WR
-18.11	Password is Taco	Taylor, Stepfan ARI RB
-18.12	Cyril's Dead Hookers	Archer, Dri PIT RB
-19.01	Cyril's Dead Hookers	LaFell, Brandon NEP WR
-19.02	Password is Taco	Street, Devin DAL WR
-19.03	The Fear Boners	Patriots, New England NEP Def
-19.04	Gal	Smith, Steve BAL WR
-19.05	Lucky Number 7	Bears, Chicago CHI Def
-19.06	The Double Ent-Andres	Hauschka, Steven SEA PK
-19.07	The Smokin' Monkeys	Bailey, Stedman STL WR
-19.08	Curt's Team	Bailey, Dan DAL PK
-19.09	Crazy Liquor and Cheeseburger Party	Fleener, Coby IND TE
-19.1	John's Team	Gaffney, Tyler CAR RB
-19.11	The Rodya Orchestra	Greene, Shonn TEN RB
-19.12	Erlich Bachman	McCown, Josh TBB QB
-20.01	Erlich Bachman	Carr, Derek OAK QB
-20.02	The Rodya Orchestra	Stewart, Jonathan CAR RB
-20.03	Password is Taco	Hill, Stephen NYJ WR
-20.04	Crazy Liquor and Cheeseburger Party	Boldin, Anquan SFO WR
-20.05	Curt's Team	Douglas, Harry ATL WR
-20.06	The Smokin' Monkeys	Smith, Geno NYJ QB
-20.07	The Double Ent-Andres	Graham, Garrett HOU TE
-20.08	Lucky Number 7	Brown, Marlon BAL WR
-20.09	Gal	Williams, Mike BUF WR
-20.1	The Fear Boners	Turbin, Robert SEA RB
-20.11	Password is Taco	Manning, Eli NYG QB
-20.12	Cyril's Dead Hookers	Johnson, Stevie SFO WR
-21.01	Cyril's Dead Hookers	Dunbar, Lance DAL RB
-21.02	Password is Taco	Robinson, Adrien NYG TE
-21.03	The Fear Boners	Walsh, Blair MIN PK
-21.04	Gal	Jernigan, Jerrel NYG WR
-21.05	Lucky Number 7	Wood, Cierre BAL RB
-21.06	The Double Ent-Andres	Texans, Houston HOU Def
-21.07	The Smokin' Monkeys	Holmes, Andre OAK WR
-21.08	Curt's Team	Givens, Chris STL WR
-21.09	Crazy Liquor and Cheeseburger Party	Asiata, Matt MIN RB
-21.1	John's Team	Locker, Jake TEN QB
-21.11	The Rodya Orchestra	Polk, Chris PHI RB
-21.12	Erlich Bachman	Crosby, Mason GBP PK
-22.01	Erlich Bachman	Streater, Rod OAK WR
-22.02	The Rodya Orchestra	Norwood, Kevin SEA WR
-22.03	John's Team	Flacco, Joe BAL QB
-22.04	Crazy Liquor and Cheeseburger Party	Buccaneers, Tampa Bay TBB Def
-22.05	Curt's Team	Riddick, Theo DET RB
-22.06	The Smokin' Monkeys	Toilolo, Levine ATL TE
-22.07	The Double Ent-Andres	Garoppolo, Jimmy NEP QB
-22.08	Lucky Number 7	Cook, Jared STL TE
-22.09	Gal	Miller, Heath PIT TE
-22.1	The Fear Boners	Ellington, Bruce SFO WR
-22.11	Password is Taco	Finley, Jermichael GBP TE
-22.12	Cyril's Dead Hookers	Mettenberger, Zach TEN QB
-23.01	Cyril's Dead Hookers	Cadet, Travaris NOS RB
-23.02	Password is Taco	Thomas, Logan ARI QB
-23.03	The Fear Boners	Rainey, Bobby TBB RB
-23.04	Gal	Evans, Shaq NYJ WR
-23.05	Lucky Number 7	Coleman, Brandon NOS WR
-23.06	The Double Ent-Andres	Cotchery, Jerricho CAR WR
-23.07	The Smokin' Monkeys	Toon, Nick NOS WR
-23.08	Curt's Team	Leshoure, Mikel DET RB
-23.09	Crazy Liquor and Cheeseburger Party	Vinatieri, Adam IND PK
-23.1	John's Team	Johnson, Charles CLE WR
-23.11	The Rodya Orchestra	Glennon, Mike TBB QB
-23.12	Erlich Bachman	Fiedorowicz, C.J. HOU TE
-24.01	Erlich Bachman	Beasley, Cole DAL WR
-24.02	The Rodya Orchestra	Goodwin, Marquise BUF WR
-24.03	John's Team	Ravens, Baltimore BAL Def
-24.04	Crazy Liquor and Cheeseburger Party	Austin, Miles CLE WR
-24.05	Curt's Team	Bills, Buffalo BUF Def
-24.06	The Smokin' Monkeys	Quick, Brian STL WR
-24.07	The Double Ent-Andres	Sanders, Ace JAC WR
-24.08	Lucky Number 7	Starks, James GBP RB
-24.09	Gal	Saunders, Jalen NYJ WR
-24.1	The Fear Boners	Bolden, Brandon NEP RB
-24.11	Password is Taco	Floyd, Malcom SDC WR
-24.12	Cyril's Dead Hookers	Steelers, Pittsburgh PIT Def
-25.01	Cyril's Dead Hookers	Cunningham, Benny STL RB
-25.02	Password is Taco	Quarless, Andrew GBP TE
-25.03	The Fear Boners	Savage, Tom HOU QB
-25.04	Gal	Escobar, Gavin DAL TE
-25.05	Lucky Number 7	Wright, Jarius MIN WR
-25.06	The Double Ent-Andres	Todman, Jordan JAC RB
-25.07	Gal	Osweiler, Brock DEN QB
-25.08	Curt's Team	Enunwa, Quincy NYJ WR
-25.09	Crazy Liquor and Cheeseburger Party	Kearse, Jermaine SEA WR
-25.1	Gal	Ford, Michael CHI RB
-25.11	The Rodya Orchestra	Wright, Tim TBB TE
-25.12	Erlich Bachman	Grice, Marion SDC RB
-26.01	Erlich Bachman	Mallett, Ryan NEP QB
-26.02	The Rodya Orchestra	Jets, New York NYJ Def
-26.03	John's Team	Housler, Robert ARI TE
-26.04	Crazy Liquor and Cheeseburger Party	Bryant, Matt ATL PK
-26.05	Curt's Team	Matthews, Rishard MIA WR
-26.06	The Smokin' Monkeys	Griffin, Ryan HOU TE
-26.07	The Double Ent-Andres	Whalen, Griff IND WR
-26.08	Lucky Number 7	Herron, Robert TBB WR
-26.09	Gal	Moore, Lance PIT WR
-26.1	The Fear Boners	Dawson, Phil SFO PK
-26.11	Password is Taco	Dolphins, Miami MIA Def
-26.12	Cyril's Dead Hookers	Rodgers, Richard GBP TE
-27.01	Cyril's Dead Hookers	Hillman, Ronnie DEN RB
-27.02	Password is Taco	Smith, Alex KCC QB
-27.03	The Fear Boners	Williams, Ryan DAL RB
-27.04	Gal	Zuerlein, Greg STL PK
-27.05	Lucky Number 7	Jones, T.J. DET WR
-27.06	The Double Ent-Andres	Novak, Nick SDC PK
-27.07	The Smokin' Monkeys	Wilson, Albert KCC WR
-27.08	Curt's Team	Lewis, Marcedes JAC TE
-27.09	Crazy Liquor and Cheeseburger Party	Hoyer, Brian CLE QB
-27.1	John's Team	King, Tavarres CAR WR
-27.11	The Rodya Orchestra	Gallon, Jeremy NEP WR
-27.12	Erlich Bachman	Willson, Luke SEA TE
-28.01	Erlich Bachman	Rivera, Mychal OAK TE
-28.02	The Rodya Orchestra	Gould, Robbie CHI PK
-28.03	John's Team	Jenkins, A.J. KCC WR
-28.04	Crazy Liquor and Cheeseburger Party	Kerley, Jeremy NYJ WR
-28.05	Curt's Team	Brown, Vincent SDC WR
-28.06	The Smokin' Monkeys	Posey, DeVier HOU WR
-28.07	The Double Ent-Andres	Wilder, James CIN RB
-28.08	Lucky Number 7	Graham, Shayne NOS PK
-28.09	Gal	Sanu, Mohamed CIN WR
-28.1	The Fear Boners	McDonald, Vance SFO TE
-28.11	Password is Taco	Burleson, Nate CLE WR
-28.12	Cyril's Dead Hookers	Alexander, Danario SDC WR
-29.01	Cyril's Dead Hookers	Robinson, Denard JAC RB
-29.02	Password is Taco	Packers, Green Bay GBP Def
-29.03	The Fear Boners	Hoomanawanui, Michael NEP TE
-29.04	Gal	Cousins, Kirk WAS QB
-29.05	Lucky Number 7	Schaub, Matt OAK QB
-29.06	The Double Ent-Andres	Niklas, Troy ARI TE
-29.07	Gal	Bostick, Brandon GBP TE
-29.08	Curt's Team	Ginn Jr., Ted ARI WR
-29.09	Crazy Liquor and Cheeseburger Party	Caldwell, Andre DEN WR
-29.1	John's Team	Gates, Antonio SDC TE
-29.11	The Rodya Orchestra	Flanders, Tim NOS RB
-29.12	Erlich Bachman	Boyce, Josh NEP WR
-30.01	Erlich Bachman	James, Mike TBB RB
-30.02	The Rodya Orchestra	Lewis, Dion CLE RB
-30.03	John's Team	Feely, Jay ARI PK
-30.04	Crazy Liquor and Cheeseburger Party	Battle, Jackie TEN RB
-30.05	Curt's Team	Leonard, A.C. MIN TE
-30.06	Gal	Succop, Ryan KCC PK
-30.07	The Double Ent-Andres	Patton, Quinton SFO WR
-30.08	Lucky Number 7	Andrews, Antonio TEN RB
-30.09	Gal	Harris, DuJuan GBP RB
-30.1	The Fear Boners	McNutt, Marvin CAR WR
-30.11	Password is Taco	Henery, Alex PHI PK
+1.01     	Team 3      	Charles, Jamaal KCC RB
+1.02     	Team 8      	McCoy, LeSean PHI RB
+1.03     	Team 10     	Green, A.J. CIN WR
+1.04     	Team 5      	Johnson, Calvin DET WR
+1.05     	Team 7      	Lacy, Eddie GBP RB
+1.06     	Team 9      	Graham, Jimmy NOS TE
+1.07     	Our Hero    	Bryant, Dez DAL WR
+1.08     	Team 2      	Jones, Julio ATL WR
+1.09     	Team 1      	Bernard, Giovani CIN RB
+1.10     	Team 6      	Thomas, Demaryius DEN WR
+1.11     	Team 11     	Peterson, Adrian MIN RB
+1.12     	Team 4      	Marshall, Brandon CHI WR
+2.01     	Team 4      	Martin, Doug TBB RB
+2.02     	Team 11     	Jeffery, Alshon CHI WR
+2.03     	Team 6      	Forte, Matt CHI RB
+2.04     	Team 1      	Cobb, Randall GBP WR
+2.05     	Team 2      	Bell, Le'Veon PIT RB
+2.06     	Team 8      	Rodgers, Aaron GBP QB
+2.07     	Team 9      	Murray, DeMarco DAL RB
+2.08     	Team 7      	Brown, Antonio PIT WR
+2.09     	Team 5      	Ball, Montee DEN RB
+2.10     	Team 10     	Luck, Andrew IND QB
+2.11     	Team 8      	Allen, Keenan SDC WR
+2.12     	Team 3      	Nelson, Jordy GBP WR
+3.01     	Team 3      	Brees, Drew NOS QB
+3.02     	Team 8      	Morris, Alfred WAS RB
+3.03     	Team 10     	Stacy, Zac STL RB
+3.04     	Team 8      	Thomas, Julius DEN TE
+3.05     	Team 7      	Gronkowski, Rob NEP TE
+3.06     	Team 9      	Garcon, Pierre WAS WR
+3.07     	Team 6      	Patterson, Cordarrelle MIN WR
+3.08     	Team 2      	Watkins, Sammy BUF WR
+3.09     	Team 1      	Spiller, C.J. BUF RB
+3.10     	Team 6      	Floyd, Michael ARI WR
+3.11     	Team 11     	Cameron, Jordan CLE TE
+3.12     	Team 4      	Gordon, Josh CLE WR
+4.01     	Team 4      	Harvin, Percy SEA WR
+4.02     	Team 11     	Ellington, Andre ARI RB
+4.03     	Team 6      	Evans, Mike TBB WR
+4.04     	Team 1      	Cruz, Victor NYG WR
+4.05     	Team 2      	Lynch, Marshawn SEA RB
+4.06     	Team 6      	Hopkins, DeAndre HOU WR
+4.07     	Team 9      	Foster, Arian HOU RB
+4.08     	Team 7      	Hilton, T.Y. IND WR
+4.09     	Our Hero    	Crabtree, Michael SFO WR
+4.10     	Team 10     	Vereen, Shane NEP RB
+4.11     	Our Hero    	Sankey, Bishop TEN RB
+4.12     	Team 3      	Richardson, Trent IND RB
+5.01     	Team 3      	Cooks, Brandin NOS WR
+5.02     	Team 8      	Matthews, Jordan PHI WR
+5.03     	Team 10     	Jackson, Vincent TBB WR
+5.04     	Team 6      	Manning, Peyton DEN QB
+5.05     	Team 7      	Stafford, Matthew DET QB
+5.06     	Team 9      	Wright, Kendall TEN WR
+5.07     	Our Hero    	Smith, Torrey BAL WR
+5.08     	Team 2      	Fitzgerald, Larry ARI WR
+5.09     	Team 1      	Newton, Cam CAR QB
+5.10     	Team 6      	Michael, Christine SEA RB
+5.11     	Team 11     	Mathews, Ryan SDC RB
+5.12     	Team 4      	Griffin III, Robert WAS QB
+6.01     	Team 4      	Reed, Jordan WAS TE
+6.02     	Team 11     	Wilson, Russell SEA QB
+6.03     	Team 6      	Gerhart, Toby JAC RB
+6.04     	Team 1      	Maclin, Jeremy PHI WR
+6.05     	Team 2      	Ryan, Matt ATL QB
+6.06     	Our Hero    	Foles, Nick PHI QB
+6.07     	Team 9      	Welker, Wes DEN WR
+6.08     	Team 7      	Rice, Ray BAL RB
+6.09     	Team 6      	White, Roddy ATL WR
+6.10     	Team 10     	Beckham, Odell NYG WR
+6.11     	Team 8      	Bush, Reggie DET RB
+6.12     	Team 3      	Ridley, Stevan NEP RB
+7.01     	Team 3      	Jackson, DeSean WAS WR
+7.02     	Team 10     	Ebron, Eric DET TE
+7.03     	Team 10     	Hyde, Carlos SFO RB
+7.04     	Our Hero    	Decker, Eric NYJ WR
+7.05     	Team 7      	Tate, Ben CLE RB
+7.06     	Team 9      	Jennings, Rashad NYG RB
+7.07     	Our Hero    	Bell, Joique DET RB
+7.08     	Team 2      	Davis, Vernon SFO TE
+7.09     	Team 1      	Williams, Terrance DAL WR
+7.10     	Team 6      	Adams, Davante GBP WR
+7.11     	Team 11     	Johnson, Andre HOU WR
+7.12     	Team 4      	Hunter, Justin TEN WR
+8.01     	Team 4      	Freeman, Devonta ATL RB
+8.02     	Team 11     	Latimer, Cody DEN WR
+8.03     	Team 6      	Green, Ladarius SDC TE
+8.04     	Team 1      	Miller, Lamar MIA RB
+8.05     	Team 2      	Mason, Tre STL RB
+8.06     	Team 5      	Edelman, Julian NEP WR
+8.07     	Team 9      	Benjamin, Kelvin CAR WR
+8.08     	Team 7      	Wallace, Mike MIA WR
+8.09     	Team 5      	Pitta, Dennis BAL TE
+8.10     	Team 6      	West, Terrance CLE RB
+8.11     	Team 6      	Hill, Jeremy CIN RB
+8.12     	Team 3      	Stills, Kenny NOS WR
+9.01     	Team 3      	Austin, Tavon STL WR
+9.02     	Team 8      	Seahawks, Seattle SEA Def
+9.03     	Team 10     	Randle, Rueben NYG WR
+9.04     	Team 5      	Romo, Tony DAL QB
+9.05     	Team 7      	Kaepernick, Colin SFO QB
+9.06     	Team 9      	Brady, Tom NEP QB
+9.07     	Our Hero    	Dobson, Aaron NEP WR
+9.08     	Team 2      	Tate, Golden DET WR
+9.09     	Team 1      	Clay, Charles MIA TE
+9.10     	Team 6      	Gore, Frank SFO RB
+9.11     	Team 11     	Bowe, Dwayne KCC WR
+9.12     	Team 4      	Lattimore, Marcus SFO RB
+10.01     	Team 4      	Ertz, Zach PHI TE
+10.02     	Team 11     	Robinson, Allen JAC WR
+10.03     	Team 6      	Jackson, Steven ATL RB
+10.04     	Team 1      	Panthers, Carolina CAR Def
+10.05     	Team 2      	Johnson, Chris NYJ RB
+10.06     	Our Hero    	Blackmon, Justin JAC WR
+10.07     	Team 9      	Manziel, Johnny CLE QB
+10.08     	Team 7      	Lee, Marqise JAC WR
+10.09     	Our Hero    	Thomas, Pierre NOS RB
+1.10     	Team 10     	49ers, San Francisco SFO Def
+10.11     	Team 8      	Colston, Marques NOS WR
+10.12     	Team 3      	Witten, Jason DAL TE
+11.01     	Team 3      	Sims, Charles TBB RB
+11.02     	Team 8      	Sanders, Emmanuel DEN WR
+11.03     	Team 10     	Williams, Andre NYG RB
+11.04     	Our Hero    	Moreno, Knowshon MIA RB
+11.05     	Team 7      	Olsen, Greg CAR TE
+11.06     	Team 9      	Rudolph, Kyle MIN TE
+11.07     	Our Hero    	Eifert, Tyler CIN TE
+11.08     	Team 2      	Jones-Drew, Maurice OAK RB
+11.09     	Team 1      	Davis, Knile KCC RB
+11.10     	Team 6      	Pierce, Bernard BAL RB
+11.11     	Team 11     	Robinson, Khiry NOS RB
+11.12     	Team 4      	Crowell, Isaiah CLE RB
+12.01     	Team 4      	White, James NEP RB
+12.02     	Team 11     	Carey, Ka'Deem CHI RB
+12.03     	Team 6      	Moncrief, Donte IND WR
+12.04     	Team 1      	Thompkins, Kenbrell NEP WR
+12.05     	Team 2      	McFadden, Darren OAK RB
+12.06     	Our Hero    	Brown, Bryce BUF RB
+12.07     	Team 9      	Shorts, Cecil JAC WR
+12.08     	Team 7      	Woodhead, Danny SDC RB
+12.09     	Our Hero    	McKinnon, Jerick MIN RB
+12.10     	Team 10     	Woods, Robert BUF WR
+12.11     	Team 8      	Bridgewater, Teddy MIN QB
+12.12     	Team 3      	Seferian-Jenkins, Austin TBB TE
+13.01     	Team 3      	Seastrunk, Lache WAS RB
+13.02     	Team 8      	Gostkowski, Stephen NEP PK
+13.03     	Team 10     	Landry, Jarvis MIA WR
+13.04     	Our Hero    	Wilson, David NYG RB
+13.05     	Team 7      	Britt, Kenny STL WR
+13.06     	Team 9      	Bortles, Blake JAC QB
+13.07     	Our Hero    	Murray, Latavius OAK RB
+13.08     	Team 2      	Amaro, Jace NYJ TE
+13.09     	Team 10     	Tannehill, Ryan MIA QB
+13.10     	Team 6      	Nicks, Hakeem IND WR
+13.11     	Team 11     	Allen, Dwayne IND TE
+13.12     	Team 4      	Rivers, Philip SDC QB
+14.01     	Team 4      	Wheaton, Markus PIT WR
+14.02     	Team 11     	Rams, St. Louis STL Def
+14.03     	Team 6      	Richardson, Paul SEA WR
+14.04     	Team 1      	Cutler, Jay CHI QB
+14.05     	Team 2      	Dalton, Andy CIN QB
+14.06     	Our Hero    	Cooper, Riley PHI WR
+14.07     	Team 9      	Hunter, Kendall SFO RB
+14.08     	Team 7      	Sproles, Darren PHI RB
+14.09     	Team 5      	Wayne, Reggie IND WR
+14.10     	Team 10     	Lyerla, Colt GBP TE
+14.11     	Team 8      	Boykin, Jarrett GBP WR
+14.12     	Team 3      	Amendola, Danny NEP WR
+15.01     	Team 3      	Bryant, Martavis PIT WR
+15.02     	Team 5      	Anderson, C.J. DEN RB
+15.03     	Team 10     	Jackson, Fred BUF RB
+15.04     	Team 5      	Roethlisberger, Ben PIT QB
+15.05     	Team 7      	Broncos, Denver DEN Def
+15.06     	Team 9      	Hartline, Brian MIA WR
+15.07     	Our Hero    	Rogers, Da'Rick IND WR
+15.08     	Team 2      	Bengals, Cincinnati CIN Def
+15.09     	Team 1      	McCluster, Dexter TEN RB
+15.10     	Team 6      	Bennett, Martellus CHI TE
+15.11     	Team 11     	Jones, Marvin CIN WR
+15.12     	Team 4      	Cardinals, Arizona ARI Def
+16.01     	Team 4      	Ingram, Mark NOS RB
+16.02     	Team 11     	Wilson, Marquess CHI WR
+16.03     	Team 6      	Jennings, Greg MIN WR
+16.04     	Team 1      	Murray, Aaron KCC QB
+16.05     	Team 2      	Rodgers, Jacquizz ATL RB
+16.06     	Our Hero    	Helu, Roy WAS RB
+16.07     	Team 9      	Browns, Cleveland CLE Def
+16.08     	Team 7      	Tucker, Justin BAL PK
+16.09     	Team 5      	Brown, Andre HOU RB
+16.10     	Team 10     	Ivory, Chris NYJ RB
+16.11     	Team 8      	Hawkins, Andrew CLE WR
+16.12     	Team 3      	Prater, Matt DEN PK
+17.01     	Team 3      	Saints, New Orleans NOS Def
+17.02     	Team 8      	Walker, Delanie TEN TE
+17.03     	Team 10     	Thomas, De'Anthony KCC RB
+17.04     	Team 5      	Bradshaw, Ahmad IND RB
+17.05     	Team 7      	Johnson, Storm JAC RB
+17.06     	Team 9      	Williams, DeAngelo CAR RB
+17.07     	Our Hero    	Kelce, Travis KCC TE
+17.08     	Team 2      	Baldwin, Doug SEA WR
+17.09     	Team 1      	Jones, James OAK WR
+17.10     	Team 6      	Brown, Donald SDC RB
+17.11     	Team 11     	Manuel, E.J. BUF QB
+17.12     	Team 4      	Janis, Jeff GBP WR
+18.01     	Team 4      	Abbrederis, Jared GBP WR
+18.02     	Team 11     	Brown, John ARI WR
+18.03     	Team 6      	Chiefs, Kansas City KCC Def
+18.04     	Team 1      	Ballard, Vick IND RB
+18.05     	Team 2      	Huff, Josh PHI WR
+18.06     	Our Hero    	Taliaferro, Lorenzo BAL RB
+18.07     	Team 9      	Blue, Alfred HOU RB
+18.08     	Team 7      	Bradford, Sam STL QB
+18.09     	Team 5      	Blount, LeGarrette PIT RB
+18.10     	Team 10     	Moore, Denarius OAK WR
+18.11     	Team 8      	Taylor, Stepfan ARI RB
+18.12     	Team 3      	Archer, Dri PIT RB
+19.01     	Team 3      	LaFell, Brandon NEP WR
+19.02     	Team 8      	Street, Devin DAL WR
+19.03     	Team 10     	Patriots, New England NEP Def
+19.04     	Team 5      	Smith, Steve BAL WR
+19.05     	Team 7      	Bears, Chicago CHI Def
+19.06     	Team 9      	Hauschka, Steven SEA PK
+19.07     	Our Hero    	Bailey, Stedman STL WR
+19.08     	Team 2      	Bailey, Dan DAL PK
+19.09     	Team 1      	Fleener, Coby IND TE
+19.10     	Team 6      	Gaffney, Tyler CAR RB
+19.11     	Team 11     	Greene, Shonn TEN RB
+19.12     	Team 4      	McCown, Josh TBB QB
+20.01     	Team 4      	Carr, Derek OAK QB
+20.02     	Team 11     	Stewart, Jonathan CAR RB
+20.03     	Team 8      	Hill, Stephen NYJ WR
+20.04     	Team 1      	Boldin, Anquan SFO WR
+20.05     	Team 2      	Douglas, Harry ATL WR
+20.06     	Our Hero    	Smith, Geno NYJ QB
+20.07     	Team 9      	Graham, Garrett HOU TE
+20.08     	Team 7      	Brown, Marlon BAL WR
+20.09     	Team 5      	Williams, Mike BUF WR
+20.10     	Team 10     	Turbin, Robert SEA RB
+20.11     	Team 8      	Manning, Eli NYG QB
+20.12     	Team 3      	Johnson, Stevie SFO WR
+21.01     	Team 3      	Dunbar, Lance DAL RB
+21.02     	Team 8      	Robinson, Adrien NYG TE
+21.03     	Team 10     	Walsh, Blair MIN PK
+21.04     	Team 5      	Jernigan, Jerrel NYG WR
+21.05     	Team 7      	Wood, Cierre BAL RB
+21.06     	Team 9      	Texans, Houston HOU Def
+21.07     	Our Hero    	Holmes, Andre OAK WR
+21.08     	Team 2      	Givens, Chris STL WR
+21.09     	Team 1      	Asiata, Matt MIN RB
+21.10     	Team 6      	Locker, Jake TEN QB
+21.11     	Team 11     	Polk, Chris PHI RB
+21.12     	Team 4      	Crosby, Mason GBP PK
+22.01     	Team 4      	Streater, Rod OAK WR
+22.02     	Team 11     	Norwood, Kevin SEA WR
+22.03     	Team 6      	Flacco, Joe BAL QB
+22.04     	Team 1      	Buccaneers, Tampa Bay TBB Def
+22.05     	Team 2      	Riddick, Theo DET RB
+22.06     	Our Hero    	Toilolo, Levine ATL TE
+22.07     	Team 9      	Garoppolo, Jimmy NEP QB
+22.08     	Team 7      	Cook, Jared STL TE
+22.09     	Team 5      	Miller, Heath PIT TE
+22.10     	Team 10     	Ellington, Bruce SFO WR
+22.11     	Team 8      	Finley, Jermichael GBP TE
+22.12     	Team 3      	Mettenberger, Zach TEN QB
+23.01     	Team 3      	Cadet, Travaris NOS RB
+23.02     	Team 8      	Thomas, Logan ARI QB
+23.03     	Team 10     	Rainey, Bobby TBB RB
+23.04     	Team 5      	Evans, Shaq NYJ WR
+23.05     	Team 7      	Coleman, Brandon NOS WR
+23.06     	Team 9      	Cotchery, Jerricho CAR WR
+23.07     	Our Hero    	Toon, Nick NOS WR
+23.08     	Team 2      	Leshoure, Mikel DET RB
+23.09     	Team 1      	Vinatieri, Adam IND PK
+23.10     	Team 6      	Johnson, Charles CLE WR
+23.11     	Team 11     	Glennon, Mike TBB QB
+23.12     	Team 4      	Fiedorowicz, C.J. HOU TE
+24.01     	Team 4      	Beasley, Cole DAL WR
+24.02     	Team 11     	Goodwin, Marquise BUF WR
+24.03     	Team 6      	Ravens, Baltimore BAL Def
+24.04     	Team 1      	Austin, Miles CLE WR
+24.05     	Team 2      	Bills, Buffalo BUF Def
+24.06     	Our Hero    	Quick, Brian STL WR
+24.07     	Team 9      	Sanders, Ace JAC WR
+24.08     	Team 7      	Starks, James GBP RB
+24.09     	Team 5      	Saunders, Jalen NYJ WR
+24.10     	Team 10     	Bolden, Brandon NEP RB
+24.11     	Team 8      	Floyd, Malcom SDC WR
+24.12     	Team 3      	Steelers, Pittsburgh PIT Def
+25.01     	Team 3      	Cunningham, Benny STL RB
+25.02     	Team 8      	Quarless, Andrew GBP TE
+25.03     	Team 10     	Savage, Tom HOU QB
+25.04     	Team 5      	Escobar, Gavin DAL TE
+25.05     	Team 7      	Wright, Jarius MIN WR
+25.06     	Team 9      	Todman, Jordan JAC RB
+25.07     	Team 5      	Osweiler, Brock DEN QB
+25.08     	Team 2      	Enunwa, Quincy NYJ WR
+25.09     	Team 1      	Kearse, Jermaine SEA WR
+25.10     	Team 5      	Ford, Michael CHI RB
+25.11     	Team 11     	Wright, Tim TBB TE
+25.12     	Team 4      	Grice, Marion SDC RB
+26.01     	Team 4      	Mallett, Ryan NEP QB
+26.02     	Team 11     	Jets, New York NYJ Def
+26.03     	Team 6      	Housler, Robert ARI TE
+26.04     	Team 1      	Bryant, Matt ATL PK
+26.05     	Team 2      	Matthews, Rishard MIA WR
+26.06     	Our Hero    	Griffin, Ryan HOU TE
+26.07     	Team 9      	Whalen, Griff IND WR
+26.08     	Team 7      	Herron, Robert TBB WR
+26.09     	Team 5      	Moore, Lance PIT WR
+26.10     	Team 10     	Dawson, Phil SFO PK
+26.11     	Team 8      	Dolphins, Miami MIA Def
+26.12     	Team 3      	Rodgers, Richard GBP TE
+27.01     	Team 3      	Hillman, Ronnie DEN RB
+27.02     	Team 8      	Smith, Alex KCC QB
+27.03     	Team 10     	Williams, Ryan DAL RB
+27.04     	Team 5      	Zuerlein, Greg STL PK
+27.05     	Team 7      	Jones, T.J. DET WR
+27.06     	Team 9      	Novak, Nick SDC PK
+27.07     	Our Hero    	Wilson, Albert KCC WR
+27.08     	Team 2      	Lewis, Marcedes JAC TE
+27.09     	Team 1      	Hoyer, Brian CLE QB
+27.10     	Team 6      	King, Tavarres CAR WR
+27.11     	Team 11     	Gallon, Jeremy NEP WR
+27.12     	Team 4      	Willson, Luke SEA TE
+28.01     	Team 4      	Rivera, Mychal OAK TE
+28.02     	Team 11     	Gould, Robbie CHI PK
+28.03     	Team 6      	Jenkins, A.J. KCC WR
+28.04     	Team 1      	Kerley, Jeremy NYJ WR
+28.05     	Team 2      	Brown, Vincent SDC WR
+28.06     	Our Hero    	Posey, DeVier HOU WR
+28.07     	Team 9      	Wilder, James CIN RB
+28.08     	Team 7      	Graham, Shayne NOS PK
+28.09     	Team 5      	Sanu, Mohamed CIN WR
+28.10     	Team 10     	McDonald, Vance SFO TE
+28.11     	Team 8      	Burleson, Nate CLE WR
+28.12     	Team 3      	Alexander, Danario SDC WR
+29.01     	Team 3      	Robinson, Denard JAC RB
+29.02     	Team 8      	Packers, Green Bay GBP Def
+29.03     	Team 10     	Hoomanawanui, Michael NEP TE
+29.04     	Team 5      	Cousins, Kirk WAS QB
+29.05     	Team 7      	Schaub, Matt OAK QB
+29.06     	Team 9      	Niklas, Troy ARI TE
+29.07     	Team 5      	Bostick, Brandon GBP TE
+29.08     	Team 2      	Ginn Jr., Ted ARI WR
+29.09     	Team 1      	Caldwell, Andre DEN WR
+29.10     	Team 6      	Gates, Antonio SDC TE
+29.11     	Team 11     	Flanders, Tim NOS RB
+29.12     	Team 4      	Boyce, Josh NEP WR
+30.01     	Team 4      	James, Mike TBB RB
+30.02     	Team 11     	Lewis, Dion CLE RB
+30.03     	Team 6      	Feely, Jay ARI PK
+30.04     	Team 1      	Battle, Jackie TEN RB
+30.05     	Team 2      	Leonard, A.C. MIN TE
+30.06     	Team 5      	Succop, Ryan KCC PK
+30.07     	Team 9      	Patton, Quinton SFO WR
+30.08     	Team 7      	Andrews, Antonio TEN RB
+30.09     	Team 5      	Harris, DuJuan GBP RB
+30.10     	Team 10     	McNutt, Marvin CAR WR
+30.11     	Team 8      	Henery, Alex PHI PK
 
